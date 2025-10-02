@@ -23,7 +23,7 @@ I'm a **Senior Software Engineer at [Sunlight Solutions](https://sunlightsolutio
 ## 🌐 Connect with Me
 
 - 🌍 [gradyn.com](https://gradyn.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/gradyn-wursten-97b14433a/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/gradyn-wursten-84b49920a)
 - 🐦 [Bluesky](https://bsky.app/profile/gradyn.com)
 
 ## 🤝 Let's Collaborate!
