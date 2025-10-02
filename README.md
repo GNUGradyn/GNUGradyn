@@ -8,7 +8,6 @@
 I'm a **Senior Software Engineer at [Sunlight Solutions](https://sunlightsolutions.com/)**, passionate about building robust, scalable solutions. My expertise spans **C#**, **Java**, and the modern JavaScript ecosystem—especially **Next.js** and **React**.
 
 - 🌟 **Star Contributor** at [Reactiflux](https://www.reactiflux.com/) (the largest React developer community)
-- 💡 Always open to collaboration and new opportunities
 - 🌱 Currently working on a massive new project—stay tuned!
 
 ## 🛠️ Tech Stack
